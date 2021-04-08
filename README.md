@@ -1,2 +1,2 @@
-# tinyweb
+# Tiny Web
 My Tiny Web
